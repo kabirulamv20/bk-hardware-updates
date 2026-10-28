@@ -1,12 +1,11 @@
 {
-  "versionCode": 2,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/kabirulamv20/bk-hardware-updates/raw/refs/heads/main/app-debug.apk",
+  "versionCode": 4,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/kabirulamv20/bk-hardware-updates/releases/download/v2.4/app-debug.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Fixed category catalogue images",
-    "Improved product image zoom",
-    "Improved New Arrivals",
-    "Added app update support"
+    "Added GitHub update checker",
+    "Added update popup",
+    "Added APK download and Android installation flow"
   ]
 }
