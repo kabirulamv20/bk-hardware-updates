@@ -1,11 +1,13 @@
-{
-  "versionCode": 4,
-  "versionName": "2.4",
-  "apkUrl": "https://github.com/kabirulamv20/bk-hardware-updates/releases/download/v2.4/app-debug.apk",
-  "forceUpdate": false,
-  "releaseNotes": [
-    "Added GitHub update checker",
-    "Added update popup",
-    "Added APK download and Android installation flow"
+
+const updateConfig = {
+  versionCode: 5,
+  versionName: "2.5",
+  apkUrl: "https://github.com/kabirulamv20/bk-hardware-updates/releases/download/V2.5/app-debug.apk",
+  forceUpdate: false,
+  releaseNotes: [
+    "Added Notice Board",
+    "Fixed update popup repeating on every app launch",
+    "Improved app update checker",
+    "Improved Android app experience"
   ]
-}
+};
