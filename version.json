@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "2.5",
-  "apkUrl": "https://github.com/kabirulamv20/bk-hardware-updates/releases/download/V2.5/app-debug.apk",
+  "versionCode": 6,
+  "versionName": "2.6",
+  "apkUrl": "https://github.com/kabirulamv20/bk-hardware-updates/raw/refs/heads/main/app-debug.apk",
   "forceUpdate": false,
   "releaseNotes": [
     "Added GitHub update checker",
